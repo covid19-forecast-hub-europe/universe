@@ -1,10 +1,10 @@
 [
   {
-    "package": "ForecastHubValidations",
-    "url": "https://github.com/covid19-forecast-hub-europe/ForecastHubValidations"
+    "package": "HubValidations",
+    "url": "https://github.com/covid19-forecast-hub-europe/HubValidations"
   },
   {
-    "package": "ForecastHubSubmissionApp",
-    "url": "https://github.com/covid19-forecast-hub-europe/ForecastHubSubmissionApp"
+    "package": "HubSubmissionApp",
+    "url": "https://github.com/covid19-forecast-hub-europe/HubSubmissionApp"
   }
 ]
